@@ -4,7 +4,7 @@ Android 프레임워크에 정의된 대부분의 앱 구성요소에는 수명 
 
 
 
-![Lifecycle states](./images/lifecycle_states.png)
+![Lifecycle states](../images/lifecycle_states.png)
 
 
 
